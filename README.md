@@ -1,2 +1,2 @@
 # discord
-website on discord
+this is my website on discord
